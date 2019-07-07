@@ -7,7 +7,7 @@
  * Text Domain:     bos-config-page-generator
  * Version:         0.1.0
  *
- * @package         Bos_Config_Page_Generator
+ * @package         BosConfigPageGenerator
  */
 
 // Your code starts here.
