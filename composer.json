@@ -1,0 +1,17 @@
+{
+    "name": "bosglunder/config-page-generator",
+    "description": "Config page generator",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "require": {},
+    "config": {
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "BosConfigPageGenerator\\": "App/"
+        }
+    }
+}
