@@ -2,6 +2,7 @@
 
 An easy way to generate a WordPress config page using code.
 This is now deprecated.
+This is just for a commit.
 
 ## Installation
 
